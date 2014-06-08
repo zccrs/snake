@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>clapboard.png</file>
+        <file>movie.png</file>
+        <file>main.png</file>
+        <file>game.png</file>
+    </qresource>
+</RCC>
